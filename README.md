@@ -22,9 +22,16 @@
 
 
  ## ☑ 담당 역할
-    : Project Manager, DB 설계, Spring Web 구축, 기능구현 및 rasa 연동
+    : Project Manager, DB 설계, Spring Web 구축, 웹 파트 기능구현 및 rasa 연동
 
+* Mysql을 활용한 테이블 구조 설계 
+* 쿼리문을 통한 데이터 입출력 구현
+* Spring을 활용한 MVC 패턴 분리, 웹 서비스 흐름 설계
+* 웹 파트 구현(기안문 제출, 수정, 삭제 및 승인/반려처리 게시판 구현)
+* RASA API와 Web 연동을 통한 웹챗 구현
+* RESTful 방식을 통한 데이터 통신
 
+  
 ### ✏ 사용기술
 
 <table>
@@ -67,12 +74,8 @@
 
 
 
-* Mysql을 활용한 테이블 구조 설계 
-* 쿼리문을 통한 데이터 입출력 구현
-* Spring을 활용한 MVC 패턴 분리, 웹 서비스 흐름 설계
-* 웹 파트 구현(기안문 제출, 수정, 삭제 및 승인/반려처리 게시판 구현)
-* RASA API와 Web 연동을 통한 웹챗 구현
-* RESTful 방식을 통한 데이터 통신
+
+
    
 <br><br>
 
