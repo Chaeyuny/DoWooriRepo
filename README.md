@@ -106,6 +106,9 @@
 <details>
 <summary><h2>☑프로젝트 상세</h2></summary>
 
+## ☑ 원본 레포 (시연영상 포함)
+https://github.com/2022-SMHRD-KDT-BigData-6/DoWoori
+<br>
 ## ☑ 프로젝트 기간
 2022.07.28 ~ 2022.08.22 (4주) <br>
 
