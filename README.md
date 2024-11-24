@@ -49,13 +49,7 @@
     <tr>
         <td>개발도구</td>
         <td>
-            Spring(eGovFrmae)
-        </td>
-    </tr>
-    <tr>
-        <td>라이브러리</td>
-        <td>
-            RASA
+            Spring(eGovFrmae), RASA
         </td>
     </tr>
     <tr>
