@@ -49,7 +49,7 @@
     <tr>
         <td>개발도구</td>
         <td>
-            Spring(eGovFrmae), RASA
+            Spring(eGovFrame), RASA
         </td>
     </tr>
     <tr>
